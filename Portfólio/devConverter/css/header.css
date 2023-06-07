@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+    background-color: cadetblue;
+    padding: 20px;
+    
+}
+
+header h1 {
+    color: black;
+    font-size: 3em;
+    text-align: center;
+    cursor: pointer;
+
+
+}
